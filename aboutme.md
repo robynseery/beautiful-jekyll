@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: <subtitle>
+subtitle: subtitle
 ---
 
-<introduction paragraph>
+<introduction paragraph
 
-### <title1>
+### title1
 
-<content>
+content
