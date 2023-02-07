@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Rob's Archive
 
 # Your name to show in the footer
-author: Some Person
+author: Robyn Seery
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,8 +22,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - LinkedIn: "https://www.linkedin.com/in/robyn-seery-64ba12140/"
   Author's home: "https://deanattali.com"
 
 ################
