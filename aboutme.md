@@ -4,8 +4,8 @@ title: About me
 subtitle: subtitle
 ---
 
-<introduction paragraph
+introduction paragraph
 
-### title1
+### Add title here
 
 content
