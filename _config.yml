@@ -1,4 +1,4 @@
-###########################################################
+m###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Rob's Archive
+title: Welcome!
 
 # Your name to show in the footer
 author: Robyn Seery
@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/robyn-seery-64ba12140/"
-  Author's home: "https://deanattali.com"
+  Get in Touch!: "robynseery@gmail.com"
 
 ################
 # --- Logo --- #
